@@ -1,1 +1,3 @@
 # Machine-learning-project
+#Abstract
+#In the research project, I worked with Wine quality dataset. I used regression models to calculate the value of the target value which is alcohol. R2 preformance matric was used to calculate the accuracy of the regression model. I compare all the available regressor in the pycaret library. I found out that Light gradient boosting machine regressor works best having R2 value of . Then I created the Light Gradient Boosting Machine Regressor model, tune it using tune_model() and then plot the model using residual plot, prediction error plot and feature importance plot. After finalizing, I deployed the model.
